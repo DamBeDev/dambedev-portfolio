@@ -1,0 +1,106 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Me",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to My Portfolio",
+    "description": "I'm Damian, a dedicated fullstack developer.",
+    "cta": "Explore My Work"
+  },
+  "about": {
+    "title": "About Me",
+    "shortDescription1": "Hello! I'm a developer with experience in designing and implementing robust, scalable, and secure digital solutions, with a strong focus on serverless architectures." ,
+    "shortDescription2": "I'm passionate about turning complex needs into intuitive, efficient, and impactful applications.",
+    "description": "I'm a passionate fullstack developer with experience in both frontend and backend technologies. I enjoy solving complex problems and creating efficient, scalable solutions.",
+    "cta": "know more about me"
+  },
+  "projects": {
+    "title": "My Projects",
+    "siteLink": "Site",
+    "codeLink": "Code",
+    "description": "Here are some of the projects I've worked on. Each project showcases my skills and dedication to delivering high-quality solutions.",
+    "cta": "see more projects"
+  },
+  "certifications": {
+    "title": "My Certifications",
+    "description": "I have earned several certifications that validate my skills and knowledge in various technologies and methodologies.",
+    "cta": "see more certifications"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out to me.",
+    "cta": "Find me at"
+  },
+  "projectsList": {
+    "flowper": {
+      "title": "Contact landing page",
+      "description": "Animated landing page for promoting services, including a contact form. Developed with NextJS, NestJS, and MongoDB.",
+      "alt": "flowper image"
+    },
+    "lvlogistica": {
+      "title": "Warehouse Management System",
+      "description": "Internal control system developed with React, Django, and MongoDB. Using security strategies such as http-only cookies and presigned URLs for resource loading.",
+      "alt": "LV logistica WMS image"
+    }
+  },
+  "certificationsList": {
+    "awsCloudFormationStarted": {
+      "title": "AWS CloudFormation Getting Started",
+      "provider": "AWS Training & Certification",
+      "date": "September 2025",
+      "alt": "AWS CloudFormation Getting Started Certificate"
+    },
+    "googleProjectManagement": {
+      "title": "Google Project Management",
+      "provider": "Coursera",
+      "date": "January 2025",
+      "alt": "Google Project Management Certificate"
+    },
+    "pythonOOPAlura": {
+      "title": "Python with Object-Oriented Programming",
+      "provider": "Alura",
+      "date": "September 2024",
+      "alt": "Alura Python Object-Oriented Programming Certificate"
+    },
+    "openlabHackathon": {
+      "title": "OpenLab Hackathon",
+      "provider": "NoCountry",
+      "date": "December 2024",
+      "alt": "OpenLab Hackathon Certificate"
+    },
+    "wakiHackathon": {
+      "title": "WAKI Hackathon",
+      "provider": "NoCountry",
+      "date": "November 2024",
+      "alt": "WAKI Hackathon Certificate"
+    },
+    "justinaHackathon": {
+      "title": "Justina Hackathon",
+      "provider": "NoCountry",
+      "date": "August 2024",
+      "alt": "Justina Hackathon Certificate"
+    },
+    "unamAndroidAppDev": {
+      "title": "Introduction to Android App Development",
+      "provider": "UNaM - Argentina Programa 4.0",
+      "date": "October 2023",
+      "alt": "Introduction to Android App Development Certificate"
+    },
+    "unamIntermediatePython": {
+      "title": "Intermediate Python for App Development",
+      "provider": "UNaM - Argentina Programa 4.0",
+      "date": "August 2023",
+      "alt": "Intermediate Python for App Development Certificate"
+    },
+    "intiIntroductionToProgramming": {
+      "title": "Introduction to Programming",
+      "provider": "INTI - Argentina Programa 4.0",
+      "date": "April 2023",
+      "alt": "Introduction to Programming Certificate"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre Mí",
+    "projects": "Proyectos",
+    "certifications": "Certificaciones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Bienvenido a Mi Portafolio",
+    "description": "Soy Damian, un desarrollador fullstack dedicado.",
+    "cta": "Explora Mi Trabajo"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "shortDescription1": "¡Hola! Soy un desarrollador con experiencia en el diseño e implementación de soluciones digitales robustas, escalables y seguras, con un fuerte enfoque en arquitecturas sin servidor.",
+    "shortDescription2": "Me apasiona convertir necesidades complejas en aplicaciones intuitivas, eficientes e impactantes.",
+    "description": "Soy un desarrollador fullstack apasionado con experiencia en ambas tecnologías frontend y backend. Disfruto resolver problemas complejos y crear soluciones eficientes y escalables.",
+    "cta": "saber más sobre mí"
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "siteLink": "Sitio",
+    "codeLink": "Código",
+    "description": "Aquí están algunos de los proyectos en los que he trabajado. Cada proyecto demuestra mis habilidades y dedicación para entregar soluciones de alta calidad.",
+    "cta": "ver más proyectos"
+  },
+  "certifications": {
+    "title": "Mis Certificaciones",
+    "description": "He obtenido varias certificaciones que validan mis habilidades y conocimientos en diversas tecnologías y metodologías.",
+    "cta": "ver más certificaciones"
+  },
+  "contact": {
+    "title": "Contáctame",
+    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas o oportunidades de ser parte de tus visiones. No dudes en contactarme.",
+    "cta": "Encuéntrame en"
+  },
+  "projectsList": {
+    "flowper": {
+      "title": "Página de aterrizaje de contacto",
+      "description": "Página de aterrizaje animada para promocionar servicios, incluyendo un formulario de contacto. Desarrollada con NextJS, NestJS, y MongoDB.",
+      "alt": "imagen de flowper"
+    },
+    "lvlogistica": {
+      "title": "Sistema de Gestión de Almacén",
+      "description": "Sistema de control interno desarrollado con React, Django, y MongoDB. Utilizando estrategias de seguridad como cookies solo HTTP y URLs firmadas para la carga de recursos.",
+      "alt": "imagen de LV logistica WMS"
+    }
+  },
+  "certificationsList": {
+    "awsCloudFormationStarted": {
+      "title": "Introducción a AWS CloudFormation",
+      "provider": "AWS Training & Certification",
+      "date": "Septiembre 2025",
+      "alt": "Certificado Introducción a AWS CloudFormation"
+    },
+    "googleProjectManagement": {
+      "title": "Administración de Proyectos de Google",
+      "provider": "Coursera",
+      "date": "Enero 2025",
+      "alt": "Certificado de Administración de Proyectos de Google"
+    },
+    "pythonOOPAlura": {
+      "title": "Python with Object-Oriented Programming",
+      "provider": "Alura",
+      "date": "Septiembre 2024",
+      "alt": "Certificado de Programación Orientada a Objetos en Python"
+    },
+    "openlabHackathon": {
+      "title": "OpenLab Hackathon",
+      "provider": "NoCountry",
+      "date": "Diciembre 2024",
+      "alt": "Certificado de OpenLab Hackathon"
+    },
+    "wakiHackathon": {
+      "title": "WAKI Hackathon",
+      "provider": "NoCountry",
+      "date": "Noviembre 2024",
+      "alt": "Certificado de WAKI Hackathon"
+    },
+    "justinaHackathon": {
+      "title": "Justina Hackathon",
+      "provider": "NoCountry",
+      "date": "Agosto 2024",
+      "alt": "Certificado de Justina Hackathon"
+    },
+    "unamAndroidAppDev": {
+      "title": "Introducción al Desarrollo de Aplicaciones para Android",
+      "provider": "UNaM - Argentina Programa 4.0",
+      "date": "Octubre 2023",
+      "alt": "Certificado de Introducción al Desarrollo de Aplicaciones para Android"
+    },
+    "unamIntermediatePython": {
+      "title": "Python Intermedio para el Desarrollo de Aplicaciones",
+      "provider": "UNaM - Argentina Programa 4.0",
+      "date": "Agosto 2023",
+      "alt": "Certificado de Python Intermedio para el Desarrollo de Aplicaciones"
+    },
+    "intiIntroductionToProgramming": {
+      "title": "Introducción al Programación",
+      "provider": "INTI - Argentina Programa 4.0",
+      "date": "Abril 2023",
+      "alt": "Certificado de Introducción al Programación"
+    }
+  }
+}
