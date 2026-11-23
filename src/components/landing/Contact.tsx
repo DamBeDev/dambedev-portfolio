@@ -2,34 +2,34 @@ export const Contact = () => {
   return (
     <section
       id="contact"
-      className="animate-fade-in scroll-mt-[8rem] mb-8 md:mb-16 px-4 md:px-8 lg:px-16 bg-(--bg-dark) rounded-lg shadow-[0_10px_30px_rgba(46,144,255,0.1)] border border-solid border-(--metallic-blue)"
+      className="
+        animate-fade-in 
+        scroll-mt-[8rem] 
+        mb-8 md:mb-16 
+        px-4 md:px-8 lg:px-16 
+        bg-(--bg-dark) 
+        rounded-lg shadow-[0_10px_30px_rgba(46,144,255,0.1)] 
+        border 
+        border-solid 
+        border-(--metallic-blue)
+      "
     >
       <h2>Contact</h2>
-      <div className="contact-content">
-        {/* <form className="contact-form">
-            <h3>Get in Touch</h3>
-            <div className="form-group">
-              <label htmlFor="name">Name</label>
-              <input type="text" id="name" name="name" required />
-            </div>
-            <div className="form-group">
-              <label htmlFor="email">Email</label>
-              <input type="email" id="email" name="email" required />
-            </div>
-            <div className="form-group">
-              <label htmlFor="message">Message</label>
-              <textarea
-                id="message"
-                name="message"
-                rows={5}
-                required
-              ></textarea>
-            </div>
-            <button type="submit" className="button">Send Message</button>
-          </form> */}
+      <div className="flex flex-col gap-4 align-items-center justify-content-center text-center">
 
-        <div className="contact-info">
-          <h3>Find me at</h3>
+        <div className="p-4">
+          <h3 
+            className="
+              text-xl 
+              font-bold 
+              mb-4 
+              bg-linear-[135deg,var(--primary-blue),var(--accent-blue)] 
+              bg-clip-text 
+              text-transparent
+            "
+          >
+            Find me at
+          </h3>
           <div className="social-links">
             <a
               href="mailto:d.berrojalvis@dambedev.com"
