@@ -4,6 +4,7 @@ import { About } from './components/landing/About'
 import { Projects } from './components/landing/Projects'
 import { Certifications } from './components/landing/Certifications'
 import { Footer } from './components/Footer'
+import { Contact } from './components/landing/Contact'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Projects />
       <Certifications />
+      <Contact />
       <Footer />
     </>
   )
