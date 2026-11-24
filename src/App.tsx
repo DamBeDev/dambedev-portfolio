@@ -3,8 +3,8 @@ import { Hero } from './components/landing/Hero'
 import { About } from './components/landing/About'
 import { Projects } from './components/landing/Projects'
 import { Certifications } from './components/landing/Certifications'
-import { Footer } from './components/Footer'
 import { Contact } from './components/landing/Contact'
+import { Footer } from './components/Footer'
 
 function App() {
 
