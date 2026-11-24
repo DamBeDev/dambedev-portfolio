@@ -45,6 +45,31 @@
       "title": "Sistema de Gestión de Almacén",
       "description": "Sistema de control interno desarrollado con React, Django, y MongoDB. Utilizando estrategias de seguridad como cookies solo HTTP y URLs firmadas para la carga de recursos.",
       "alt": "imagen de LV logistica WMS"
+    },
+    "gmRunning": {
+      "title": "Aplicación de seguimiento de carreras",
+      "description": "Aplicación móvil para registrar y analizar carreras, incluyendo métricas como distancia, tiempo y ritmo.",
+      "alt": "imagen de GM Running"
+    },
+    "kairos": {
+      "title": "Página de aterrizaje y sitio de administración de excursiones y reservas",
+      "description": "Renovación de estilo de la página de aterrizaje y desarrollo de un sitio de administración para gestionar excursiones y reservas, incluyendo integración de sistema de pago.",
+      "alt": "imagen de Kairos"
+    },
+    "ecowood": {
+      "title": "Página de aterrizaje y sitio de administración de obras",
+      "description": "Renovación de la página de aterrizaje, incluyendo secciones de servicios y proyectos editables. Desarrollo de un sitio de administración de obras, seguimiento de presupuestos y administración del contenido dinámico de la página de aterrizaje.",
+      "alt": "imagen de Ecowood"
+    },
+    "fotoesfera": {
+      "title": "Plataforma de creación de álbumes de fotos y generación de imprimibles",
+      "description": "Plataforma web para crear álbumes de fotos con formato de esfera 3D y generar imprimibles para el armado físico de las esferas. Incluye un sistema de administración para gestionar contenido, patrocinadores y usuarios.",
+      "alt": "imagen de Fotoesfera"
+    },
+    "grupoImpresor": {
+      "title": "Sistema de gestión de contenido dinámico para sitios web de imprenta",
+      "description": "Sistema web para gestionar el contenido dinámico de sitios públicos de imprenta, incluyendo traducción automática con IA del contenido.",
+      "alt": "imagen de Grupo Impresor"
     }
   },
   "certificationsList": {

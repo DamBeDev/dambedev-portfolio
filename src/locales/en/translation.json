@@ -45,6 +45,31 @@
       "title": "Warehouse Management System",
       "description": "Internal control system developed with React, Django, and MongoDB. Using security strategies such as http-only cookies and presigned URLs for resource loading.",
       "alt": "LV logistica WMS image"
+    },
+    "gmRunning": {
+      "title": "Race Tracking Application",
+      "description": "Mobile application for registering and analyzing races, including metrics such as distance, time, and pace.",
+      "alt": "GM Running image"
+    },
+    "kairos": {
+      "title": "Landing Page and Administration Site for Tours and Reservations",
+      "description": "Landing page style renovation and development of an administration site for managing tours and reservations, including payment system integration.",
+      "alt": "Kairos image"
+    },
+    "ecowood": {
+      "title": "Landing Page and Administration Site for Construction Projects",
+      "description": "Landing page renovation, including editable service and project sections. Development of a construction project administration site, budget tracking, and dynamic content management for the landing page.",
+      "alt": "Ecowood image"
+    },
+    "fotoesfera": {
+      "title": "Photo Album Creation Platform and Printable Generation",
+      "description": "Web platform for creating 3D sphere photo albums and generating prints for physical assembly of the spheres. Includes an administration system for managing content, sponsors, and users.",
+      "alt": "Fotoesfera image"
+    },
+    "grupoImpresor": {
+      "title": "System for Managing Dynamic Content of Printing Company Websites",
+      "description": "Web system for managing dynamic content of public printing company websites, including automatic translation with AI of the content.",
+      "alt": "Grupo Impresor image"
     }
   },
   "certificationsList": {
