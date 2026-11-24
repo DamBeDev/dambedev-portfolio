@@ -4,7 +4,7 @@ import { type Project } from '../../data/projects-data'
 export const ProjectCard = (project: Project) => {
   return (
     <div className="bg-(--bg-card) rounded-lg p-6 shadow-[0_4px_6px_rgba(0,0,0,0.2)] border border-solid border-(--metallic-blue)">
-      <img src={project.image} alt={project.alt} />
+      <img src={project.images[0].src} alt={project.alt} />
       <h3>{project.title}</h3>
       <p>{project.description}</p>
       <div className="display-flex gap-4">
